@@ -1,8 +1,10 @@
 This project is designed to scrap the contact infos of bank offices. You can implement this software to all cities and banks in Turkey. 
 
-You have to install sqlite,geckodriver and Mozilla Firfox to run the project. 
+to run the project;
+  You have to install sqlite,geckodriver and Mozilla Firefox.
+  You have to add geckodriver adress to PATH.
 
-If you want to run this project on another bank, you have to write the name of the bank instead of "halkbank"
+If you want to run this project with another bank, you have to write the name of the bank instead of "halkbank"
 You can add or delete cities regarding your needs, do not forget to write city names in English and str format.
 
 All data will be taken from www.bankalar.org
