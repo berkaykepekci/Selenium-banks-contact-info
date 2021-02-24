@@ -1,0 +1,5 @@
+This project is designed to take the contact infos of bank offices. You can implement this software to all cities and banks in Turkey. 
+
+You have to install sqlite,geckodriver and Mozilla Firfox to run the project. 
+
+All data will be taken from www.bankalar.org
