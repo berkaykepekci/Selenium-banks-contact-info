@@ -1,4 +1,4 @@
-This project is designed to scrap the contact infos of bank offices. You can implement this software to all cities and banks in Turkey. 
+This project is designed to scrape the contact infos of bank offices. You can implement this software to all cities and banks in Turkey. 
 
 to run the project;
   You have to install sqlite,geckodriver and Mozilla Firefox.
